@@ -1,2 +1,2 @@
-# flutter_blog
-flutter_blog
+# Flutter Firebase Blog App with Firebase white
+
